@@ -51,7 +51,7 @@ int main(){
   }*/
 
   printf("Output:\n");
-  for(i=0, t=1; i<n; i++, t++){
+  for(t=1; t<=n+1; t++){
     s = 0;
     max = minimum(s, v, t, n);
     s++;
