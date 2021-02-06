@@ -1,2 +1,2 @@
 # CyberChallenge2021
-This repo should collect many "difficult" exercises that were proposed through CC2021.
+Tried to nail some stuff in C but realised C s useless af. :)
